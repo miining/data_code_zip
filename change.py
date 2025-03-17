@@ -1,3 +1,4 @@
+#텍스트 파일 엑셀로 변환할때 사용
 import pandas as pd
 import os
 import shutil
